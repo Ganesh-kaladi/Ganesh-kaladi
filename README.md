@@ -51,9 +51,9 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
 
 ---
 
-## 🛠️ Skills & Tools
+### 🛠️ Skills & Tools
 
-### 🎨 Frontend
+#### 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,figma" />
 </p>
