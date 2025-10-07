@@ -3,7 +3,7 @@
 <hr />
 
 
-<h3><b>Frontend</b></h3>
+###<h3><b>Frontend</b></h3>
 <span><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="20rem" width="22rem" align='center' /> HTML</span>
 <span><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="20rem" width="22rem" align='center' /> HTML</span>
 <ul>
