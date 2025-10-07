@@ -5,7 +5,7 @@
 <ul>
   <li><h3><b>Frontend</b></h3>
   <span><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"  align='center' /> HTML</span>
-<span><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/10d8901a-efe5-4d95-92e7-35f60aaa092d" height="20rem" width="22rem" /> HTML</span>
+<span><img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/10d8901a-efe5-4d95-92e7-35f60aaa092d" /> HTML</span>
   </li>
 </ul>
 
