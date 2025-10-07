@@ -1,123 +1,108 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4e9af1;">Siva Ganesh</span></h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate Coder | Open Source Contributor</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Sivaganesh Kaladi</span></h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Passionate Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4e9af1&width=550&lines=Building+awesome+apps+with+MERN+Stack!;Always+learning+new+tech!;Open+Source+and+Community+Driven!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=600&lines=Building+Scalable+Web+Apps+with+MERN+Stack!;Exploring+Next.js+and+Cloud+Integration!;Learning+and+Improving+Every+Day!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🤖 About Me
+### 💫 About Me
 
-I'm a passionate **Full Stack Developer** who loves turning creative ideas into digital products.  
-I focus on writing clean, efficient, and maintainable code with an eye for UI detail and backend efficiency.  
-Currently, I'm exploring **cloud integration** and **DevOps practices** to deploy scalable web applications.
+I'm a passionate **Full Stack Developer** focused on building scalable, efficient, and user-friendly web applications using the **MERN stack**.  
+I love transforming creative ideas into real-world products with clean code and modern UI/UX practices.  
 
-- Based in: Hyderabad, India  
-- Ask me about: React, Node.js, MongoDB, TailwindCSS  
-- Currently learning: **Next.js**, **Docker**, and **CI/CD pipelines**  
-- Fun fact: I debug faster with coffee ☕  
-
----
-
-## 🧩 Featured Projects
-
-### Haven Hills – Luxury Hillstay Booking Platform  
-><img align="center" width="25" height="25" alt="logo" src="https://github.com/user-attachments/assets/fc0df078-777c-4ec3-804e-430cd9b0bae5" /> A full-stack **booking application** that lets users explore, book, and manage luxury cabins with real-time availability.
-
--  **Tech Stack**: React, Node.js, Express, MongoDB  
--  **Features**: Secure login, Booking conflict prevention, PDF tickets  
--  **Integrations**: Stripe Payments, Cloudinary for images  
--  **Live Demo**: [haven-hills.vercel.app](https://example.com)  
+- 📍 Based in: Kakinada, Andhra Pradesh, India  
+- 💬 Ask me about: React.js, Node.js, MongoDB, Express, Tailwind CSS  
+- 🌱 Currently exploring: **Next.js**, **MySQL**, and **Sequelize ORM**  
+- ☕ Fun fact: I debug faster after a cup of coffee  
 
 ---
 
-###  TeamTasks – Task Manager for Teams  
-><img align="center" width="25" height="25" alt="back" src="https://github.com/user-attachments/assets/4954c001-d121-46b6-9901-242590141ede" /> A collaborative task management tool for teams to assign, track, and analyze progress.
+## 🚀 Featured Projects
 
-- ⚙️ **Tech Stack**: React + Redux Toolkit, Node.js, MongoDB  
-- 📈 **Integrations**: Chart.js for analytics, JWT Auth, Role-based access  
-- 💡 **Features**: Kanban board, Task filtering, Notifications  
+### 🏡 Haven Hills – Luxury Hillstay Booking Platform  
+<img align="left" width="30" height="30" src="https://github.com/user-attachments/assets/fc0df078-777c-4ec3-804e-430cd9b0bae5" />
+A full-stack **booking system** that allows users to explore, book, and manage luxury cabins with secure payments.
 
----
-### ShopEase – E-commerce Platform  
-> <img align="center" width="50" height="50" alt="logo" src="https://github.com/user-attachments/assets/0b87ef68-3530-4aa1-8bb2-bb3e021aab8c" /> Scalable e-commerce system with dynamic filtering, pagination, and order tracking.
-
--  **Stack**: MERN  
--  **Integration**: PayPal Sandbox  
--  **Extra**: Admin panel, Product management  
+- 🛠 **Stack**: React, Node.js, Express, MongoDB, Tailwind CSS  
+- 💳 **Features**: Razorpay Integration, Date Filtering, PDF Ticket Download  
+- ☁️ **Deploy**: Frontend (Netlify) | Backend (Render)  
+- 🔗 **Live Demo**: [haven-hills.netlify.app](https://haven-hills.netlify.app)  
+- 💻 **Code**: [GitHub Repo](https://github.com/Ganesh-kaladi/haven-hills-frontend)
 
 ---
 
-## 🛠️ Skills & Tools
+### 🧠 VibeFind – Event Booking Platform  
+<img align="left" width="30" height="30" src="https://github.com/user-attachments/assets/4954c001-d121-46b6-9901-242590141ede" />
+A complete **event booking solution** connecting users and organizers with secure payments and chatbot support.
 
-### 🎨 Frontend
+- ⚙️ **Stack**: React (Vite), Node.js, Express, MongoDB, Tailwind CSS  
+- 💬 **Features**: Cashfree Integration, Role-based Access, Chatbot Support  
+- ☁️ **Deploy**: Frontend (Netlify) | Backend (Render)  
+- 🔗 **Live Demo**: [vibefind-together.netlify.app](https://vibefind-together.netlify.app)  
+- 💻 **Code**: [GitHub Repo](https://github.com/Ganesh-kaladi/vibefind)
+
+---
+
+### 🧾 TeamTasks – Task Manager for Teams  
+A collaborative task management web app for small teams with dashboards and task analytics.  
+
+- ⚙️ **Stack**: React + Redux Toolkit, Node.js, MongoDB  
+- 📊 **Features**: JWT Auth, Role-based Access, Filtering, Analytics  
+- 🔗 **Live Demo**: [team-tasks-frontend.onrender.com](https://team-tasks-frontend.onrender.com)  
+- 💻 **Code**: [GitHub Repo](https://github.com/Ganesh-kaladi/team-tasks)
+
+---
+
+## 🧩 Tech Stack & Tools
+
+### 🎨 Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sequelize" />
 </p>
 
-## 🧰 Tools & Platforms
+### 🧰 Tools & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman" />
 </p>
 
 ---
 
-## 🌍 My Capabilities
+## 🌟 My Capabilities  
 
-✅ Designing responsive and accessible UIs  
-✅ Writing optimized RESTful APIs  
-✅ Managing databases efficiently (MongoDB/MySQL)  
-✅ Integrating 3rd-party APIs and payment gateways  
-✅ Setting up CI/CD pipelines for automated deployment  
-✅ Collaborating in Agile development environments  
-
----
-
-## 🤝 Contributions & Interests
-
-🌱 I’m interested in **open-source collaboration**, especially around:
-- React-based component libraries  
-- Node.js backend utilities  
-- UI/UX-driven web products  
-
-💡 Always open for **collaborative projects**, **learning opportunities**, and **community building**.  
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siva-ganesh&theme=tokyonight&margin-w=15&no-bg=true" alt="Trophies" />
-</p> -->
-
- 
-
-<!-- GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siva-ganesh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siva-ganesh&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p> -->
+✅ Building responsive and accessible UIs  
+✅ Writing optimized REST APIs  
+✅ Managing databases (MongoDB & MySQL)  
+✅ Implementing secure authentication & payment integration  
+✅ Cloud deployments & environment management  
+✅ Working in Agile / collaborative teams  
 
 ---
 
-## ✨ Special Note
+## 🤝 Interests & Contributions  
 
-> 🧡 “Code is not just logic; it’s a creative expression.”  
-> I love building products that **make life simpler**, **look elegant**, and **perform efficiently**.
+🌱 Interested in **open-source collaboration**, **React-based UI libraries**, and **Node.js backend utilities**.  
+💡 Open to **collaborative projects**, **internships**, and **freelance opportunities**.  
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siva-ganesh/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="mailto:siva@example.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" /></a>
-  <a href="https://portfolio-siva.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sivaganesh-kaladi/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="mailto:sivaganeshkaladi97011@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" /></a>
+  <a href="https://haven-hills.netlify.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
 </p>
 
 ---
 
-⭐ **“Let’s build something awesome together!”**
+⭐ *“Let’s build something awesome together!”*  
