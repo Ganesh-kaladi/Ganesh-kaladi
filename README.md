@@ -14,11 +14,10 @@ I'm a passionate **Full Stack Developer** who loves turning creative ideas into 
 I focus on writing clean, efficient, and maintainable code with an eye for UI detail and backend efficiency.  
 Currently, I'm exploring **cloud integration** and **DevOps practices** to deploy scalable web applications.
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a8e4d31c-c5b0-4e46-bac0-e9572bb173a1" />
- Based in: Hyderabad, India  
-💬 Ask me about: React, Node.js, MongoDB, TailwindCSS  
-🌱 Currently learning: **Next.js**, **Docker**, and **CI/CD pipelines**  
-⚡ Fun fact: I debug faster with coffee ☕  
+● Based in: Hyderabad, India  
+● Ask me about: React, Node.js, MongoDB, TailwindCSS  
+● Currently learning: **Next.js**, **Docker**, and **CI/CD pipelines**  
+● Fun fact: I debug faster with coffee ☕  
 
 ---
 
