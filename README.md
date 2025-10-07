@@ -23,7 +23,7 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
 
 ## 🧩 Featured Projects
 
-<img width="25" height="25" alt="logo" src="https://github.com/user-attachments/assets/fc0df078-777c-4ec3-804e-430cd9b0bae5" /> Haven Hills – Luxury Hillstay Booking Platform  
+<img align="center" width="25" height="25" alt="logo" src="https://github.com/user-attachments/assets/fc0df078-777c-4ec3-804e-430cd9b0bae5" /> Haven Hills – Luxury Hillstay Booking Platform  
 > A full-stack **booking application** that lets users explore, book, and manage luxury cabins with real-time availability.
 
 - 🧭 **Tech Stack**: React, Node.js, Express, MongoDB  
