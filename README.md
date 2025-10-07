@@ -13,46 +13,46 @@
 I'm a passionate **Full Stack Developer** focused on building scalable, efficient, and user-friendly web applications using the **MERN stack**.  
 I love transforming creative ideas into real-world products with clean code and modern UI/UX practices.  
 
-- 📍 Based in: Kakinada, Andhra Pradesh, India  
-- 💬 Ask me about: React.js, Node.js, MongoDB, Express, Tailwind CSS  
-- 🌱 Currently exploring: **Next.js**, **MySQL**, and **Sequelize ORM**  
-- ☕ Fun fact: I debug faster after a cup of coffee  
+- Based in: Kakinada, Andhra Pradesh, India  
+- Ask me about: React.js, Node.js, MongoDB, Express, Tailwind CSS  
+- Currently exploring: **Next.js**, **MySQL**, and **Sequelize ORM**  
+- Fun fact: I debug faster after a cup of coffee  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏡 Haven Hills – Luxury Hillstay Booking Platform  
-<img align="left" width="30" height="30" src="https://github.com/user-attachments/assets/fc0df078-777c-4ec3-804e-430cd9b0bae5" />
+### Haven Hills – Luxury Hillstay Booking Platform  
+><img align="left" width="30" height="30" src="https://github.com/user-attachments/assets/fc0df078-777c-4ec3-804e-430cd9b0bae5" />
 A full-stack **booking system** that allows users to explore, book, and manage luxury cabins with secure payments.
 
 - 🛠 **Stack**: React, Node.js, Express, MongoDB, Tailwind CSS  
-- 💳 **Features**: Razorpay Integration, Date Filtering, PDF Ticket Download  
-- ☁️ **Deploy**: Frontend (Netlify) | Backend (Render)  
-- 🔗 **Live Demo**: [haven-hills.netlify.app](https://haven-hills.netlify.app)  
-- 💻 **Code**: [GitHub Repo](https://github.com/Ganesh-kaladi/haven-hills-frontend)
+-  **Features**: Razorpay Integration, Date Filtering, PDF Ticket Download  
+- **Deploy**: Frontend (Netlify) | Backend (Render)  
+-  **Live Demo**: [haven-hills.netlify.app](https://haven-hills.netlify.app)  
+-  **Code**: [GitHub Repo](https://github.com/Ganesh-kaladi/haven-hills-frontend)
 
 ---
 
-### 🧠 VibeFind – Event Booking Platform  
-<img align="left" width="30" height="30" src="https://github.com/user-attachments/assets/4954c001-d121-46b6-9901-242590141ede" />
+### VibeFind – Event Booking Platform  
+><img align="left" width="30" height="30" src="https://github.com/user-attachments/assets/4954c001-d121-46b6-9901-242590141ede" />
 A complete **event booking solution** connecting users and organizers with secure payments and chatbot support.
 
-- ⚙️ **Stack**: React (Vite), Node.js, Express, MongoDB, Tailwind CSS  
-- 💬 **Features**: Cashfree Integration, Role-based Access, Chatbot Support  
-- ☁️ **Deploy**: Frontend (Netlify) | Backend (Render)  
-- 🔗 **Live Demo**: [vibefind-together.netlify.app](https://vibefind-together.netlify.app)  
-- 💻 **Code**: [GitHub Repo](https://github.com/Ganesh-kaladi/vibefind)
+-  **Stack**: React (Vite), Node.js, Express, MongoDB, Tailwind CSS  
+-  **Features**: Cashfree Integration, Role-based Access, Chatbot Support  
+-  **Deploy**: Frontend (Netlify) | Backend (Render)  
+-  **Live Demo**: [vibefind-together.netlify.app](https://vibefind-together.netlify.app)  
+-  **Code**: [GitHub Repo](https://github.com/Ganesh-kaladi/vibefind)
 
 ---
 
 ### 🧾 TeamTasks – Task Manager for Teams  
 A collaborative task management web app for small teams with dashboards and task analytics.  
 
-- ⚙️ **Stack**: React + Redux Toolkit, Node.js, MongoDB  
-- 📊 **Features**: JWT Auth, Role-based Access, Filtering, Analytics  
-- 🔗 **Live Demo**: [team-tasks-frontend.onrender.com](https://team-tasks-frontend.onrender.com)  
-- 💻 **Code**: [GitHub Repo](https://github.com/Ganesh-kaladi/team-tasks)
+-  **Stack**: React + Redux Toolkit, Node.js, MongoDB  
+-  **Features**: JWT Auth, Role-based Access, Filtering, Analytics  
+-  **Live Demo**: [team-tasks-frontend.onrender.com](https://team-tasks-frontend.onrender.com)  
+-  **Code**: [GitHub Repo](https://github.com/Ganesh-kaladi/team-tasks)
 
 ---
 
@@ -91,8 +91,6 @@ A collaborative task management web app for small teams with dashboards and task
 🌱 Interested in **open-source collaboration**, **React-based UI libraries**, and **Node.js backend utilities**.  
 💡 Open to **collaborative projects**, **internships**, and **freelance opportunities**.  
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
@@ -103,6 +101,8 @@ A collaborative task management web app for small teams with dashboards and task
   <a href="https://haven-hills.netlify.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ⭐ *“Let’s build something awesome together!”*  
