@@ -90,22 +90,23 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
 
 💡 Always open for **collaborative projects**, **learning opportunities**, and **community building**.  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=siva-ganesh&theme=tokyonight&margin-w=15&no-bg=true" alt="Trophies" />
-</p>
+</p> -->
 
 ---
 
-## 📊 GitHub Analytics
+ 
 
+<!-- GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siva-ganesh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siva-ganesh&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p>
+</p> -->
 
 ---
 
-## ✨ Special Note
+<h2>✨ Special Note</h2>
 
 > 🧡 “Code is not just logic; it’s a creative expression.”  
 > I love building products that **make life simpler**, **look elegant**, and **perform efficiently**.
