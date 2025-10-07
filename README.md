@@ -63,7 +63,7 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sequelize,graphql" />
 </p>
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,netlify,linux" />
 </p>
@@ -94,8 +94,6 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
   <img src="https://github-profile-trophy.vercel.app/?username=siva-ganesh&theme=tokyonight&margin-w=15&no-bg=true" alt="Trophies" />
 </p> -->
 
----
-
  
 
 <!-- GitHub Analytics
@@ -106,7 +104,7 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
 
 ---
 
-<h2>✨ Special Note</h2>
+## ✨ Special Note
 
 > 🧡 “Code is not just logic; it’s a creative expression.”  
 > I love building products that **make life simpler**, **look elegant**, and **perform efficiently**.
