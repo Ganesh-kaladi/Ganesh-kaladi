@@ -15,9 +15,9 @@ I focus on writing clean, efficient, and maintainable code with an eye for UI de
 Currently, I'm exploring **cloud integration** and **DevOps practices** to deploy scalable web applications.
 
 - Based in: Hyderabad, India  
-● Ask me about: React, Node.js, MongoDB, TailwindCSS  
-● Currently learning: **Next.js**, **Docker**, and **CI/CD pipelines**  
-● Fun fact: I debug faster with coffee ☕  
+- Ask me about: React, Node.js, MongoDB, TailwindCSS  
+- Currently learning: **Next.js**, **Docker**, and **CI/CD pipelines**  
+- Fun fact: I debug faster with coffee ☕  
 
 ---
 
@@ -33,39 +33,38 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
 
 ---
 
-### 🗓️ TeamTasks – Task Manager for Teams  
-> A collaborative task management tool for teams to assign, track, and analyze progress.
+###  TeamTasks – Task Manager for Teams  
+> <img align:"center" width="25" height="25" alt="back" src="https://github.com/user-attachments/assets/4954c001-d121-46b6-9901-242590141ede" /> A collaborative task management tool for teams to assign, track, and analyze progress.
 
 - ⚙️ **Tech Stack**: React + Redux Toolkit, Node.js, MongoDB  
 - 📈 **Integrations**: Chart.js for analytics, JWT Auth, Role-based access  
 - 💡 **Features**: Kanban board, Task filtering, Notifications  
 
 ---
+### ShopEase – E-commerce Platform  
+> <img align="center" width="50" height="50" alt="logo" src="https://github.com/user-attachments/assets/0b87ef68-3530-4aa1-8bb2-bb3e021aab8c" /> Scalable e-commerce system with dynamic filtering, pagination, and order tracking.
 
-<img align="center" width="50" height="50" alt="logo" src="https://github.com/user-attachments/assets/0b87ef68-3530-4aa1-8bb2-bb3e021aab8c" /> ### ShopEase – E-commerce Platform  
-> Scalable e-commerce system with dynamic filtering, pagination, and order tracking.
-
-- 🧰 **Stack**: MERN  
-- 💳 **Integration**: PayPal Sandbox  
-- 🚀 **Extra**: Admin panel, Product management  
+-  **Stack**: MERN  
+-  **Integration**: PayPal Sandbox  
+-  **Extra**: Admin panel, Product management  
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
-#### 🎨 Frontend
+### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sequelize,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sequelize" />
 </p>
 
 ## 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,netlify,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,netlify" />
 </p>
 
 ---
