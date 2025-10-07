@@ -42,7 +42,7 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
 
 ---
 
-<img align="center" width="25" height="25" alt="logo" src="https://github.com/user-attachments/assets/0b87ef68-3530-4aa1-8bb2-bb3e021aab8c" /> ### ShopEase – E-commerce Platform  
+<img align="center" width="50" height="50" alt="logo" src="https://github.com/user-attachments/assets/0b87ef68-3530-4aa1-8bb2-bb3e021aab8c" /> ### ShopEase – E-commerce Platform  
 > Scalable e-commerce system with dynamic filtering, pagination, and order tracking.
 
 - 🧰 **Stack**: MERN  
