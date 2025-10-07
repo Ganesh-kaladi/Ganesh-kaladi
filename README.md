@@ -26,10 +26,10 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
 <img align="center" width="25" height="25" alt="logo" src="https://github.com/user-attachments/assets/fc0df078-777c-4ec3-804e-430cd9b0bae5" /> Haven Hills – Luxury Hillstay Booking Platform  
 > A full-stack **booking application** that lets users explore, book, and manage luxury cabins with real-time availability.
 
-- 🧭 **Tech Stack**: React, Node.js, Express, MongoDB  
-- 💳 **Features**: Secure login, Booking conflict prevention, PDF tickets  
-- 📊 **Integrations**: Stripe Payments, Cloudinary for images  
-- 🌐 **Live Demo**: [haven-hills.vercel.app](https://example.com)  
+-  **Tech Stack**: React, Node.js, Express, MongoDB  
+-  **Features**: Secure login, Booking conflict prevention, PDF tickets  
+-  **Integrations**: Stripe Payments, Cloudinary for images  
+-  **Live Demo**: [haven-hills.vercel.app](https://example.com)  
 
 ---
 
@@ -42,7 +42,7 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
 
 ---
 
-### 🛒 ShopEase – E-commerce Platform  
+<img align="center" width="25" height="25" alt="logo" src="https://github.com/user-attachments/assets/0b87ef68-3530-4aa1-8bb2-bb3e021aab8c" /> ### ShopEase – E-commerce Platform  
 > Scalable e-commerce system with dynamic filtering, pagination, and order tracking.
 
 - 🧰 **Stack**: MERN  
