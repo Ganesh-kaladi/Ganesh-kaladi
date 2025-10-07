@@ -5,7 +5,7 @@
 
 <h3><b>Frontend</b></h3>
 <ul>
-  <li><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="2rem" width="2rem" /> HTML</li>
+  <li><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="20rem" width="22rem" /> HTML</li>
   <li>HTML</li>
   <li>HTML</li>
   <li>HTML</li>
