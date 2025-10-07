@@ -1,6 +1,9 @@
 <htmt>
   <head>
-    
+    <style>
+      .class{
+        background-color:"#000"
+    </style>
   </head>
 <body>
   <h1> Hi there 👋, I am sivaganesh, full stack developer specialization in MERN</h1>
