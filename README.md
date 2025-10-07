@@ -1,6 +1,7 @@
 <h1> Hi there 👋, I am sivaganesh, full stack developer specialization in MERN</h1>
 <p>Full Stack Developer with expertise in building scalable, high-performance web applications from concept to deployment. Proficient in both frontend and backend development, with hands-on experience across React.js, Redux Toolkit, Tailwind CSS, Node.js, Express.js, and MongoDB, advanced javascript ES6+. Skilled in API integration, authentication, payment gateways, and cloud-based asset management using Cloudinary.</p>
 <hr />
+**HTML** **CSS**
 
 <h3><b>Frontend</b></h3>
 <ul style='color:#fff'>
