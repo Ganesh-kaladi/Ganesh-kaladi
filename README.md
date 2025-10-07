@@ -34,7 +34,7 @@ Currently, I'm exploring **cloud integration** and **DevOps practices** to deplo
 ---
 
 ###  TeamTasks – Task Manager for Teams  
-> <img align:"center" width="25" height="25" alt="back" src="https://github.com/user-attachments/assets/4954c001-d121-46b6-9901-242590141ede" /> A collaborative task management tool for teams to assign, track, and analyze progress.
+><img align="center" width="25" height="25" alt="back" src="https://github.com/user-attachments/assets/4954c001-d121-46b6-9901-242590141ede" /> A collaborative task management tool for teams to assign, track, and analyze progress.
 
 - ⚙️ **Tech Stack**: React + Redux Toolkit, Node.js, MongoDB  
 - 📈 **Integrations**: Chart.js for analytics, JWT Auth, Role-based access  
