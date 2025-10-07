@@ -1,102 +1,125 @@
-<h1> Hi there 👋, I am sivaganesh, full stack developer specialization in MERN</h1>
-<p>Full Stack Developer with expertise in building scalable, high-performance web applications from concept to deployment. Proficient in both frontend and backend development, with hands-on experience across React.js, Redux Toolkit, Tailwind CSS, Node.js, Express.js, and MongoDB, advanced javascript ES6+. Skilled in API integration, authentication, payment gateways, and cloud-based asset management using Cloudinary.</p>
-<hr />
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hi, I'm <span style="color:#4e9af1;">Siva Ganesh</span></h1>
+<h3 align="center">🚀 MERN Stack Developer | Passionate Coder | Open Source Contributor</h3>
 
-<ul>
-  <li><h3><b>Frontend</b></h3>
-  <span><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"  align='center' /> HTML</span>
-<h4><span><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/10d8901a-efe5-4d95-92e7-35f60aaa092d" /> HTML</span></h4>
-<h5><span><img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/10d8901a-efe5-4d95-92e7-35f60aaa092d" /> HTML</span></h5>
-<h5><span><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/10d8901a-efe5-4d95-92e7-35f60aaa092d" /> HTML</span></h6>
-  </li>
-</ul>
-
-###<h3><b>Frontend</b></h3>
-<span><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="20rem" width="22rem" align='center' /> HTML</span>
-<span><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="20rem" width="22rem" align='center' /> HTML</span>
-<ul>
-  <li></li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-</ul>
-<span>HTML,</span>
-<span>CSS,</span>
-<span>Javascript,</span>
-<span>jQury,</span>
-<span>Bootstrap,</span>
-<span>Tailwind CSS,</span>
-<span>Redux,</span>
-
-<h3><b>Backend</b></h3>
-<span>Node,</span>
-<span>Express.js,</span>
-<span>MongoDB,</span>
-<span>Mongoose,</span>
-<span>JWT,</span>
-<span>Rest API,</span>
-<span>Authentication & Authorization,</span>
-
-<h3><b>Tools & Deployment</b></h3>
-<span>Git & GitHub,</span>
-<span>Postman,</span>
-<span>Vercel,</span>
-<span>Render,</span>
-<span>VS Code,</span>
-
-<hr />
-<img src="https://res.cloudinary.com/drbklccpt/image/upload/v1751870784/Screenshot_2025-07-07_121552_kjskxl.png" alt="..." />
-<span><b>Projects</b></span>
-<h4><a href="https://vibefind-together.netlify.app">Vibe Find</a>– Event Booking Platform</h4>
-<p>A full-stack event booking platform that connects event organizers and attendees. Designed to handle events across categories like sports, music, art, and technology, the platform allows users to browse events, purchase tickets, and manage bookings with ease.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4e9af1&width=550&lines=Building+awesome+apps+with+MERN+Stack!;Always+learning+new+tech!;Open+Source+and+Community+Driven!" alt="Typing SVG" />
 </p>
 
-<h4><a href="https://haven-hills.netlify.app">Haven Hills</a> – Luxury Hillstay Booking Platform</h4>
-<p>A full-stack luxury hillstay booking platform offering premium cabins nestled in the hills. Designed to provide unmatched comfort, breathtaking views, and a seamless booking experience, the platform caters to travelers seeking nature retreats with modern amenities.</p>
+---
 
-<img src="https://res.cloudinary.com/drbklccpt/image/upload/c_pad,w_540,h_420/v1751870784/Screenshot_2025-07-07_121552_kjskxl.png" style={width:"50%"} alt="..." />
-<h4><a href="https://hi-shop-lake.vercel.app">Hi,SHOP</a> – E-Commerce Platform</h4>
-<p>A full-stack e-commerce platform for purchasing men’s, women’s, and kids’ clothing, accessories, and footwear. The platform provides secure user authentication, order tracking, and a responsive UI for seamless shopping experiences across devices.</p>
+### 🧠 About Me
 
-<h4><a href="https://team-tasks-frontend.onrender.com">Task Manager</a> – TeamTasks</h4>
-<p>A full-stack task management platform designed for small teams or companies to assign, monitor, and track tasks in real-time. The application provides role-based access where only admins can manage employees, assign tasks, and analyze productivity, while employees can update and track their assigned tasks.
+I'm a passionate **Full Stack Developer** who loves turning creative ideas into digital products.  
+I focus on writing clean, efficient, and maintainable code with an eye for UI detail and backend efficiency.  
+Currently, I'm exploring **cloud integration** and **DevOps practices** to deploy scalable web applications.
+
+📍 Based in: Hyderabad, India  
+💬 Ask me about: React, Node.js, MongoDB, TailwindCSS  
+🌱 Currently learning: **Next.js**, **Docker**, and **CI/CD pipelines**  
+⚡ Fun fact: I debug faster with coffee ☕  
+
+---
+
+## 🧩 Featured Projects
+
+### 🏕️ Haven Hills – Luxury Hillstay Booking Platform  
+> A full-stack **booking application** that lets users explore, book, and manage luxury cabins with real-time availability.
+
+- 🧭 **Tech Stack**: React, Node.js, Express, MongoDB  
+- 💳 **Features**: Secure login, Booking conflict prevention, PDF tickets  
+- 📊 **Integrations**: Stripe Payments, Cloudinary for images  
+- 🌐 **Live Demo**: [haven-hills.vercel.app](https://example.com)  
+
+---
+
+### 🗓️ TeamTasks – Task Manager for Teams  
+> A collaborative task management tool for teams to assign, track, and analyze progress.
+
+- ⚙️ **Tech Stack**: React + Redux Toolkit, Node.js, MongoDB  
+- 📈 **Integrations**: Chart.js for analytics, JWT Auth, Role-based access  
+- 💡 **Features**: Kanban board, Task filtering, Notifications  
+
+---
+
+### 🛒 ShopEase – E-commerce Platform  
+> Scalable e-commerce system with dynamic filtering, pagination, and order tracking.
+
+- 🧰 **Stack**: MERN  
+- 💳 **Integration**: PayPal Sandbox  
+- 🚀 **Extra**: Admin panel, Product management  
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,figma" />
 </p>
-<hr />
-<h4>Key Achievements</h4>
-<ul>
-  <li>End-to-End Web Development: Built multiple full-stack web applications from scratch to production deployment using React, Vite, Node.js, Express, MongoDB, and Tailwind CSS.</li>
-  <li>Environment & Configuration Management: Expert in handling environment variables for secure configuration across development and production environments.
-</li>
-  <li>File Handling & Form Processing: Implemented file uploads, image hosting (Cloudinary), and form submissions with validation, sanitization, and error handling.</li><li>Database Design & Query Optimization: Designed MongoDB schemas, implemented Mongoose models, performed advanced filtering & query optimization for high performance.</li>
-  <li>Secure Payment Gateway Integration: Integrated Razorpay and Cashfree payment gateways with secure JWT authentication for transaction safety.
-</li>
-  <li>CRUD Operations & API Development: Developed REST APIs with complete Create, Read, Update, Delete functionality and role-based access control.</li>
-  <li>Debugging & Troubleshooting: Efficient in identifying, diagnosing, and resolving frontend and backend errors to ensure smooth application performance.</li>
-  <li>NPM Package Utilization: Leveraged popular and custom NPM packages for added functionality and streamlined development workflows.</li>
-  <li>Responsive UI/UX Design: Delivered mobile-first, fully responsive designs optimized for mobile, tablet, and desktop devices.</li>
-</ul>
 
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sequelize,graphql" />
+</p>
 
-<!--
-**Ganesh-kaladi/Ganesh-kaladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,netlify,linux" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 My Capabilities
 
+✅ Designing responsive and accessible UIs  
+✅ Writing optimized RESTful APIs  
+✅ Managing databases efficiently (MongoDB/MySQL)  
+✅ Integrating 3rd-party APIs and payment gateways  
+✅ Setting up CI/CD pipelines for automated deployment  
+✅ Collaborating in Agile development environments  
 
+---
 
+## 🤝 Contributions & Interests
 
+🌱 I’m interested in **open-source collaboration**, especially around:
+- React-based component libraries  
+- Node.js backend utilities  
+- UI/UX-driven web products  
+
+💡 Always open for **collaborative projects**, **learning opportunities**, and **community building**.  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siva-ganesh&theme=tokyonight&margin-w=15&no-bg=true" alt="Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siva-ganesh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siva-ganesh&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
+
+---
+
+## ✨ Special Note
+
+> 🧡 “Code is not just logic; it’s a creative expression.”  
+> I love building products that **make life simpler**, **look elegant**, and **perform efficiently**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siva-ganesh/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="mailto:siva@example.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" /></a>
+  <a href="https://portfolio-siva.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
+</p>
+
+---
+
+⭐ **“Let’s build something awesome together!”**
